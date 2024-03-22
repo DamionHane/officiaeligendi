@@ -1,0 +1,29 @@
+{
+  "name": "officiaeligendi",
+  "version": "1.0.0",
+  "dependencies": {},
+  "files": [
+    "models.d.ts",
+    "readme.md"
+  ],
+  "main": "./models.d.ts",
+  "types": "./models.d.ts",
+  "description": "Frontend TypeScript model definitions",
+  "devDependencies": {
+    "typedoc": "^0.22.13",
+    "typescript": "^4.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamionHane/officiaeligendi.git"
+  },
+  "keywords": [
+    "dolore",
+    "id",
+    "sunt",
+    "rest",
+    "non"
+  ],
+  "author": "RooseveltGoldner",
+  "license": "ISC"
+}
